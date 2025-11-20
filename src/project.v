@@ -1,4 +1,4 @@
-*
+/*
  * Tri-state output register with single R/W* control.
  * ui_in[0] = R_nW  (1 = READ: drive bus; 0 = WRITE: capture uio_in on clk)
  */
